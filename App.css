@@ -1,0 +1,20 @@
+header{
+	
+	background-color:#fbc600;
+	padding:10px 15px;
+	hight:40px;
+	font-weight:bold;
+	color:#3b3c43;
+	font-size:18px;
+}
+.wrapper{
+	padding:15px;
+}
+.wrapper .react-tabs__tab--selected{
+	    border-radius: 0;
+    border-top: solid 4px #fbc600;
+	color:#94969A;
+}
+.wrapper .react-tabs__tab:hover{
+	color:#94969A;
+}
